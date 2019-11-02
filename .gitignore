@@ -1,0 +1,11 @@
+# Ignore everything
+.DS_Store
+gulpfile.js
+package.json
+package-lock.json
+.idea
+node_modules
+
+# But not these files...
+!.gitignore
+# etc...
